@@ -4,7 +4,7 @@ int main()
     int n, m, i, j, k; 
     n = 5;  
     m = 3; 
-    int alloc[5][3] = { { 0, 1, 0 }, // P0    // Allocation Matrix 
+    int alloc[5][3] = { { 0, 1, 0 }, // P0    // Allocation Matrix.
                         { 2, 0, 0 }, // P1 
                         { 3, 0, 2 }, // P2 
                         { 2, 1, 1 }, // P3 
